@@ -3,5 +3,5 @@ This repository contains a poster designed for our first Industrial Talk assignm
 # Content
 - [Poster](./EY-POSTER-GROUP4.pdf)
 # Reflection
-- [Reflection](./Reflections.md)
+- [Reflection](./reflection.md)
 
